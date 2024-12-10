@@ -12,8 +12,8 @@ export function HeroSection() {
           Tejas Saste
         </h1>
         <p className="text-gray-600 md:text-lg max-w-[600px]">
-          Product designer and digital creative director working in design field
-          for 7 years so far,specialize user interface design.
+          Product Engineer and Product Manager working in development and design
+          field for 3.5 years so far,specialize user interface design.
         </p>
         <div className="flex gap-4 pt-4">
           <Button className="bg-red-500 hover:bg-red-600">Hire Me</Button>
@@ -71,7 +71,7 @@ export function HeroSection() {
           priority
         />
         <div className="absolute top-1/4 left-0 bg-white p-4 rounded-lg shadow-lg">
-          <div className="text-4xl font-bold">330</div>
+          <div className="text-4xl font-bold">10+</div>
           <div className="text-sm text-gray-600">
             Completed
             <br />

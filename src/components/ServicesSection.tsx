@@ -5,7 +5,7 @@ export function ServicesSection() {
     <section className="container py-20">
       <div className="grid md:grid-cols-4 gap-8">
         <div className="bg-purple-600 text-white p-8 rounded-3xl">
-          <div className="text-5xl font-bold">7+</div>
+          <div className="text-5xl font-bold">3+</div>
           <div className="mt-2">
             Years
             <br />
