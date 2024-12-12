@@ -1,5 +1,4 @@
-import React from 'react';
-import './AboutMe.css';
+import "./About.css";
 
 const About = () => {
   return (
@@ -7,9 +6,15 @@ const About = () => {
       <header>
         <nav>
           <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/projects">Projects</a></li>
-            <li><a href="/contact">Contact</a></li>
+            <li>
+              <a href="/">Home</a>
+            </li>
+            <li>
+              <a href="/projects">Projects</a>
+            </li>
+            <li>
+              <a href="/contact">Contact</a>
+            </li>
           </ul>
         </nav>
       </header>
@@ -24,15 +29,21 @@ const About = () => {
             <div className="bio">
               <h2>Hi, I'm [Your Name]</h2>
               <p>
-                I'm a passionate Web3 Developer specializing in building decentralized applications (dApps) and smart contracts.
-                I have experience with blockchain technologies like Ethereum, Solana, and Polygon, and I love to create transparent, secure, and decentralized solutions.
+                I'm a passionate Web3 Developer specializing in building
+                decentralized applications (dApps) and smart contracts. I have
+                experience with blockchain technologies like Ethereum, Solana,
+                and Polygon, and I love to create transparent, secure, and
+                decentralized solutions.
               </p>
               <p>
-                I am proficient in smart contract development using Solidity, Web3.js, and Ethers.js. I work on creating decentralized finance (DeFi) projects, NFTs, and much more. 
-                Let’s shape the future of the internet together!
+                I am proficient in smart contract development using Solidity,
+                Web3.js, and Ethers.js. I work on creating decentralized finance
+                (DeFi) projects, NFTs, and much more. Let’s shape the future of
+                the internet together!
               </p>
               <p>
-                Feel free to explore my work or get in touch with me for collaboration and consulting.
+                Feel free to explore my work or get in touch with me for
+                collaboration and consulting.
               </p>
             </div>
           </div>
